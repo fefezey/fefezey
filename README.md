@@ -2,9 +2,13 @@
 
 Ben Zeynep, burada fefezey. Kodlamaya C ile başladım. Bir şeyin nasıl çalıştığını merak edince genelde oturup kendim yazmaya çalışıyorum. Açık kaynak projelere katkı veriyorum ve bundan çok şey öğreniyorum.
 
-### Bulsana
+### Çalıştığım ürünler
 
-**[Bulsana](https://bulsana.app)**, Türkiye'deki market fiyatlarını karşılaştıran bir mobil uygulama ([App Store](https://apps.apple.com/tr/app/bulsana/id6776634672)). Ekipte mobil uygulama tarafında çalışıyorum: davet ve hesap ekranları, harita deneyimi, fiyat doğrulama formu gibi özellikler geliştirdim.
+**Sobe** · *Proje yöneticisi*
+Yapay zekâ destekli bir günlük planlama uygulaması. Sobe'ye ne yapacağını söylüyorsun, o da gününü planlıyor. Projeyi yönetiyorum, bir yandan da geliştirmede aktifim: odak zamanlayıcısı, kilit ekranında Live Activity, tekrarlayan görevler ve Android sürümü gibi özellikleri çıkardım. 150'den fazla PR'ım merge edildi.
+
+**[Bulsana](https://bulsana.app)** · *Geliştirici*
+Türkiye'deki market fiyatlarını karşılaştıran bir mobil uygulama ([App Store](https://apps.apple.com/tr/app/bulsana/id6776634672)). Davet ve hesap ekranları, harita deneyimi ve fiyat doğrulama formu gibi özellikleri geliştirdim.
 
 ### Neler yapıyorum
 
@@ -22,7 +26,6 @@ Merge edilenler:
 - [OpenPanel](https://github.com/stefanpejcic/OpenPanel/pull/1315): 2FA girişindeki deneme limitini düzelttim
 - [BrogueCE](https://github.com/tmewett/BrogueCE/pull/975): oyunda otomatik keşfin büyülü işaretlerin etrafından dolaşmasını sağladım
 - [OpenSignup](https://github.com/richshaw/OpenSignup/pull/790), [ngx-daterangepicker-material](https://github.com/fetrarij/ngx-daterangepicker-material/pull/645), [web2mcp](https://github.com/charleswei118/web2mcp/pull/21)
-- [Sobe](https://github.com/msefakeskinn/candle/pulls?q=is%3Apr+author%3Afefezey+is%3Amerged): bir mobil uygulamada 150'den fazla PR'ım merge edildi
 
 Hâlâ bekleyenler: [conda](https://github.com/conda/conda/pull/16978), [meteor](https://github.com/meteor/meteor/pull/14962)
 
