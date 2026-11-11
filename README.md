@@ -1,6 +1,6 @@
 ## Selam 👋
 
-Ben Zeynep, burada fefezey. Kodlamaya C ile başladım. Bir şeyin nasıl çalıştığını merak edince genelde oturup kendim yazmaya çalışıyorum. Açık kaynak projelere katkı veriyorum ve bundan çok şey öğreniyorum.
+Ben fefezey. Kodlamaya C ile başladım. Bir şeyin nasıl çalıştığını merak edince genelde oturup kendim yazmaya çalışıyorum. Açık kaynak projelere katkı veriyorum ve bundan çok şey öğreniyorum.
 
 ### Çalıştığım ürünler
 
@@ -32,7 +32,3 @@ Hâlâ bekleyenler: [conda](https://github.com/conda/conda/pull/16978), [meteor]
 ### Kullandıklarım
 
 C, Python, TypeScript, JavaScript, Svelte, React Native
-
----
-
-Birlikte bir şeyler yapmak istersen ya da sadece selam vermek istersen yazabilirsin 🙂
