@@ -1,6 +1,10 @@
 ## Selam 👋
 
-Ben fefezey. Kodlamaya C ile başladım. Bir şeyin nasıl çalıştığını merak edince genelde oturup kendim yazmaya çalışıyorum. Son zamanlarda açık kaynak projelere katkı vermeye başladım ve bundan çok şey öğreniyorum.
+Ben Zeynep, burada fefezey. Kodlamaya C ile başladım. Bir şeyin nasıl çalıştığını merak edince genelde oturup kendim yazmaya çalışıyorum. Açık kaynak projelere katkı veriyorum ve bundan çok şey öğreniyorum.
+
+### Bulsana
+
+**[Bulsana](https://bulsana.app)**, Türkiye'deki market fiyatlarını karşılaştıran bir mobil uygulama ([App Store](https://apps.apple.com/tr/app/bulsana/id6776634672)). Ekipte mobil uygulama tarafında çalışıyorum: davet ve hesap ekranları, harita deneyimi, fiyat doğrulama formu gibi özellikler geliştirdim.
 
 ### Neler yapıyorum
 
