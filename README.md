@@ -1,6 +1,6 @@
 ## Selam 👋
 
-Ben fefezey. Kodlamaya C ile başladım. Kendi yaşadığım ya da çevremdeki insanların yaşadığı sorunlara çözüm üretmeyi, merak ettiğim şeylerin de nasıl çalıştığını kurcalamayı seviyorum. Açık kaynak projelere katkı veriyorum ve bundan çok şey öğreniyorum.
+Ben fefezey. Kendi yaşadığım ya da çevremdeki insanların yaşadığı sorunlara çözüm üretmeyi, merak ettiğim şeylerin de nasıl çalıştığını kurcalamayı seviyorum. Kodlamaya C ile başladım, şimdi mobil uygulamalardan yapay zekâ araçlarına kadar farklı alanlarda projeler geliştiriyor ve açık kaynak projelere katkı veriyorum.
 
 ### Çalıştığım ürünler
 
